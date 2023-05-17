@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Trisharati Pal",
+      "email": "trisharati.4@gmail.com",
+      "phone": "07980714052"
+    },
+    {
+      "id": "2",
+      "name": "Moumita Das",
+      "email": "moumita@das",
+      "phone": "05487963236"
+    }
+  ]
+}
